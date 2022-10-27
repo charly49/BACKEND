@@ -1,24 +1,39 @@
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Repository\IPersonaRepository.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\MainSecurity.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Service\ImpPersonaService.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Controller\PersonaController.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Service\UsuarioService.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Repository\iRolRepository.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Dto\LoginUsuario.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Enums\RolNombre.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\jwt\JwtProvider.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Entity\Usuario.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Interface\IPersonaService.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Repository\iUsuarioRepository.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Controller\AuthController.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\jwt\JwtTokenFilter.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Entity\Rol.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Service\RolService.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Service\UserDetailsImpl.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Controller\Mensaje.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Dto\JwtDto.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Dto\NuevoUsuario.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\jwt\JwtEntryPoint.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\CegApplication.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Security\Entity\UsuarioPrincipal.java
-C:\Users\carlo\OneDrive\Documentos\Curso de Programacion\Yo Programo\ProyectoFinal\ProyectoIntegrador_CarlosGomez\ProyectoIntegrador_CarlosGomez\BackEnd2\src\main\java\com\portfolio\ceg\Entity\Persona.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Entity\Persona.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Controller\CEducacion.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\MainSecurity.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Service\RolService.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Entity\Rol.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\jwt\JwtTokenFilter.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Controller\CHys.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Repository\iUsuarioRepository.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Controller\PersonaController.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Interface\IPersonaService.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Dto\dtoExperiencia.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Entity\Experiencia.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Service\Shys.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Entity\Usuario.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Controller\CExperiencia.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Repository\Rhys.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Enums\RolNombre.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Repository\RExperiencia.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Repository\REducacion.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Service\UsuarioService.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Dto\NuevoUsuario.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Controller\AuthController.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Controller\Mensaje.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Repository\iRolRepository.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Dto\dtoEducacion.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Entity\Educacion.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Service\SExperiencia.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Dto\dtoHys.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Repository\IPersonaRepository.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Entity\UsuarioPrincipal.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Service\Seducacion.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\CegApplication.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Service\UserDetailsImpl.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Entity\hys.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\jwt\JwtEntryPoint.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Service\ImpPersonaService.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\jwt\JwtProvider.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Dto\LoginUsuario.java
+C:\BackEnd2_u\src\main\java\com\portfolio\ceg\Security\Dto\JwtDto.java
