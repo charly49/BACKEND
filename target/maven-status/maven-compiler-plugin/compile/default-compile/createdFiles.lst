@@ -11,7 +11,6 @@ com\portfolio\ceg\Entity\hys.class
 com\portfolio\ceg\Service\ImpPersonaService.class
 com\portfolio\ceg\Repository\REducacion.class
 com\portfolio\ceg\Security\jwt\JwtProvider.class
-.netbeans_automatic_build
 com\portfolio\ceg\Controller\PersonaController.class
 com\portfolio\ceg\Interface\IPersonaService.class
 com\portfolio\ceg\Security\Dto\NuevoUsuario.class
